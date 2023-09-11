@@ -1,5 +1,5 @@
-<h3 align="left">My name is Liisa</h3>
-My profile repository
 
+<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=davylis&show_icons=true&theme=tokyonight" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davylis&show_icons=true&theme=tokyonight) 
+<img align="left" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+
