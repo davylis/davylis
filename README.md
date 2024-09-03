@@ -25,7 +25,11 @@ System.out.println(result);
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 <p><img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=davylis&show_icons=true&locale=en&theme=tokyonight" alt="davylis"/></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=davylis&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="davylis" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davylis&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="davylis" /></p>
 <br>
 
