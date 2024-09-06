@@ -3,7 +3,7 @@
 <br>
 <br>
 
-```
+```js
 String name = "Liza Davydov";
 String[] interests = {"Coding", "Dancing", "Gardening", "Family", "Friends", "Cooking", "Drawing", "Movies"};
 String result = "";
