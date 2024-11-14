@@ -3,16 +3,20 @@
 <br>
 <br>
 
-```js
-String name = "Liza Davydov";
-String[] interests = {"Coding", "Dancing", "Gardening", "Family", "Friends", "Cooking", "Drawing", "Movies"};
-String result = "";
+```java
+class Main{
+    public static void main(String[} args) {
+        String name = "Liza Davydov";
+        String[] interests = {"Coding", "Dancing", "Gardening", "Family", "Friends", "Cooking", "Drawing", "Movies"};
+        String result = "";
 
-if (interests[0].equals("Coding")) {
-    result = "Future FullStack Developer " + name;
+        if (interests[0].equals("Coding")) {
+            result = "Future FullStack Developer " + name;
+        }
+
+        System.out.println(result);
+    }
 }
-
-System.out.println(result);
 ```
 <br>
 <br>
