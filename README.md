@@ -5,7 +5,7 @@
 
 ```java
 class Main{
-    public static void main(String[} args) {
+    public static void main(String[] args) {
         String name = "Liza Davydov";
         String[] interests = {"Coding", "Dancing", "Gardening", "Family", "Friends", "Cooking", "Drawing", "Movies"};
         String result = "";
