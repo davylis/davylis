@@ -6,7 +6,7 @@
 ```java
 class Main{
     public static void main(String[] args) {
-        String name = "Liza Davydov";
+        String name = "Liza Davydova";
         String[] interests = {"Coding", "Dancing", "Gardening", "Family", "Friends", "Cooking", "Drawing", "Movies"};
         String result = "";
 
