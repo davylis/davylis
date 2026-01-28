@@ -1,4 +1,4 @@
-<h3 align="center">Privet 👋</h3>
+<h3 align="center">Hey 👋</h3>
 <br>
 <br>
 <br>
